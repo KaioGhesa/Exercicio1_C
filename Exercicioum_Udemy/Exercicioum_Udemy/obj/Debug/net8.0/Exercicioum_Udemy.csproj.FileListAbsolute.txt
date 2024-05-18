@@ -1,0 +1,14 @@
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\bin\Debug\net8.0\Exercicioum_Udemy.exe
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\bin\Debug\net8.0\Exercicioum_Udemy.deps.json
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\bin\Debug\net8.0\Exercicioum_Udemy.runtimeconfig.json
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\bin\Debug\net8.0\Exercicioum_Udemy.dll
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\bin\Debug\net8.0\Exercicioum_Udemy.pdb
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\obj\Debug\net8.0\Exercicioum_Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\obj\Debug\net8.0\Exercicioum_Udemy.AssemblyInfoInputs.cache
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\obj\Debug\net8.0\Exercicioum_Udemy.AssemblyInfo.cs
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\obj\Debug\net8.0\Exercicioum_Udemy.csproj.CoreCompileInputs.cache
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\obj\Debug\net8.0\Exercicioum_Udemy.dll
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\obj\Debug\net8.0\refint\Exercicioum_Udemy.dll
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\obj\Debug\net8.0\Exercicioum_Udemy.pdb
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\obj\Debug\net8.0\Exercicioum_Udemy.genruntimeconfig.cache
+C:\Curso Udemy\Exercicioum_Udemy\Exercicioum_Udemy\obj\Debug\net8.0\ref\Exercicioum_Udemy.dll
